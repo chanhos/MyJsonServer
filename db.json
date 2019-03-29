@@ -1,6 +1,4 @@
 {
-    "subject" :  "영화&책_목록" , 
-    "description" : "Somthing that i intersted in"  , 
     "movies" : [
         {  "id" : "0" ,  "title" : "캡틴마블" , "year" : "2019.3" } , 
         {  "id" : "1" ,  "title" : "가디언즈오브갤럭시 vol.1" ,  "year" : "2018.12" } ,  
